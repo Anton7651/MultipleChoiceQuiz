@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="q3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="q1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="q2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="q2A" min="-2" max="-2" attributes="0"/>
+                                  <Component id="q3A" min="-2" max="-2" attributes="0"/>
+                                  <Component id="q1A" min="-2" max="-2" attributes="0"/>
+                                  <Component id="q1C" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="q1B" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                      <Component id="ansBox1" min="-2" pref="25" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="q2C" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="q3C" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                      <Component id="ansBox3" min="-2" pref="25" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="q2B" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Component id="ansBox2" min="-2" pref="25" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                  <Group type="102" attributes="0">
+                                                      <Component id="q4B" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                                      <Component id="ansBox4" min="-2" pref="25" max="-2" attributes="0"/>
+                                                      <EmptySpace max="32767" attributes="0"/>
+                                                      <Component id="button" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" attributes="0">
+                                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                          <Component id="amtincorrect" min="-2" pref="20" max="-2" attributes="0"/>
+                                                          <Component id="amtcorrect" min="-2" pref="20" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="108" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="q4C" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="q4A" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <EmptySpace min="-2" pref="414" max="-2" attributes="0"/>
+                                                      <Component id="amtPercent" min="-2" pref="50" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="78" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="q4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" attributes="0">
+                                                  <Component id="q5" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                                                  <Component id="correctlbl" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="q5B" min="-2" max="-2" attributes="0"/>
+                                                          <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                                          <Component id="ansBox5" min="-2" pref="25" max="-2" attributes="0"/>
+                                                          <EmptySpace min="-2" pref="142" max="-2" attributes="0"/>
+                                                          <Component id="wronglbll" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Component id="q5A" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="q5C" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Component id="percentagelbl" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                              <Component id="title" min="-2" pref="283" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Component id="title" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q1A" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q4A" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q1B" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q4B" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ansBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ansBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="button" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q1C" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q4C" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="correctlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="amtcorrect" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q2A" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q5A" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="wronglbll" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="amtincorrect" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q2B" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ansBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q5B" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ansBox5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q2C" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="q5C" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="amtPercent" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="percentagelbl" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="q3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="q3A" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="q3C" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ansBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="32" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="title">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Comic Knowledge Quiz"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1. What is Spider-Man&apos;s secret identity?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q1A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A. Tim Drake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q1B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B. Peter Parker"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q1C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C. Wade Wilson"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2. What is Superman&apos;s weakness?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q2A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A. Kryptonite"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q2B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B. Fire"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q2C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C. Broccoli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3. Which Robin became Red Hood?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q3A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A. Jason Todd"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q3C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B. Damian Wayne"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C. Dick Grayson"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4. What is the Flash&apos;s secret identity?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q4A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A. Cisco Ramon"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q4B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B. Barry Allen"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q4C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C. Clark Kent"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="5. Who &quot;dies&quot; in Avengers: Infinity War?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q5A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A. Captain America"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q5B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B. Thor"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="q5C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C. Starlord"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ansBox1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ansBox1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ansBox2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ansBox3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ansBox4">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ansBox4ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ansBox5">
+    </Component>
+    <Component class="javax.swing.JLabel" name="correctlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Correctly Answered:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="wronglbll">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Incorrect Answers:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="percentagelbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Percentage of correct answers:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="button">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Calculate Performance"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="amtcorrect">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="amtincorrect">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="amtPercent">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
